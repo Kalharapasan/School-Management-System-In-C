@@ -5,6 +5,9 @@ A console-based **School Management System** developed in **C**, aimed at helpin
 
 ---
 
+![image](https://github.com/user-attachments/assets/ef436e02-92ad-4e03-ac2f-03d7f88fbb11)
+
+
 ## 🎯 Purpose
 
 This project was created as part of an academic coursework for the subject **Man C**. It serves as a practical demonstration of:
