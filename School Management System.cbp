@@ -31,44 +31,33 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="StudentTestMark.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="admin.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="class.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="database.c">
-			<Option compilerVar="CC" />
-		</Unit>
+		<Unit filename="admin.h" />
 		<Unit filename="exam.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="exam_marks.c">
-			<Option compilerVar="CC" />
-		</Unit>
+		<Unit filename="exam.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="menu.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="school_management.h" />
 		<Unit filename="student.c">
 			<Option compilerVar="CC" />
-			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="student.h" />
 		<Unit filename="subject.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="subject.h" />
 		<Unit filename="teacher.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="teacher.h" />
 		<Unit filename="utils.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="utils.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

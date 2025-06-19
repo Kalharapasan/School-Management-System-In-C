@@ -61,3 +61,7 @@
 1750075198 source:d:\c project\school management system\school management system\utils.c
 	"utils.h"
 
+1750315965 source:d:\c project\school management system\school management system\subject.c
+	"subject.h"
+	"utils.h"
+
