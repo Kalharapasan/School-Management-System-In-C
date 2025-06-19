@@ -1,15 +1,63 @@
 # depslib dependency file v1.0
-1750073204 source:d:\c project\school management system\school management system\admin.c
+1750075198 source:d:\c project\school management system\school management system\admin.c
+	"admin.h"
+	"utils.h"
 
-1750073222 source:d:\c project\school management system\school management system\class.c
+1750075198 d:\c project\school management system\school management system\admin.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
 
-1750073246 source:d:\c project\school management system\school management system\exam.c
+1750075198 d:\c project\school management system\school management system\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
 
-1750073257 source:d:\c project\school management system\school management system\studentexammark.c
+1750075198 source:d:\c project\school management system\school management system\exam.c
+	"exam.h"
+	"utils.h"
 
-1750073268 source:d:\c project\school management system\school management system\studenttestmark.c
+1750075198 d:\c project\school management system\school management system\exam.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
 
-1750073234 source:d:\c project\school management system\school management system\subject.c
+1750075198 source:d:\c project\school management system\school management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"student.h"
+	"teacher.h"
+	"admin.h"
+	"subject.h"
+	"exam.h"
+	"utils.h"
 
-1750073188 source:d:\c project\school management system\school management system\teacher.c
+1750075198 d:\c project\school management system\school management system\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1750075198 d:\c project\school management system\school management system\teacher.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1750075198 d:\c project\school management system\school management system\subject.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1750075198 source:d:\c project\school management system\school management system\student.c
+	"student.h"
+	"utils.h"
+
+1750075198 source:d:\c project\school management system\school management system\teacher.c
+	"teacher.h"
+	"utils.h"
+
+1750075198 source:d:\c project\school management system\school management system\utils.c
+	"utils.h"
 
